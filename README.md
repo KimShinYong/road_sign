@@ -64,7 +64,7 @@ names: ['trafficlight', 'stop', 'speedlimit', 'crosswalk']
 <img width="543" height="773" alt="image" src="https://github.com/user-attachments/assets/b943a7fe-a8bf-43a3-9679-51ca0c5cb967" />
 
 # (3) 객체 탐지 테스트
-### 3-1. 예측 수행
+예측 수행
 
 # (4) 결과 정리 (캡처)
 예측 결과에서 표지판을 바운딩 박스로 탐지하는 것을 확인했습니다.
